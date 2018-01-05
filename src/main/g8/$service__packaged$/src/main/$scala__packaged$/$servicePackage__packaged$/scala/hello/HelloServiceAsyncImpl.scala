@@ -21,4 +21,3 @@ class HelloServiceAsyncImpl extends  HelloServiceAsync{
     Future {println(s" content: \${content}, timeout: \${timeout}")}
   }
 }
-com.isuwang.plugins.ContainerBootstrap
