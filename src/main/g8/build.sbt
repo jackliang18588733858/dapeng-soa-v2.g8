@@ -5,8 +5,6 @@ version := "$version$"
 
 scalaVersion := "$scalaVersion$"
 
-sbtPlugin := true
-
 organization := "$organization$"
 
 resolvers += Resolver.mavenLocal
